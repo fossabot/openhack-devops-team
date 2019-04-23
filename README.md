@@ -1,4 +1,6 @@
 # Project Name
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FTsuyoshiUshio%2Fopenhack-devops-team.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FTsuyoshiUshio%2Fopenhack-devops-team?ref=badge_shield)
+
 
 The DevOps open hack event is designed to foster learning via implementing DevOps practices with a series of challenges.
 
@@ -31,3 +33,7 @@ It is useful but not required to have a basic knowledge of the following topics:
 ## Resources
 
 The provisioning of this environment for proctors can be found in the [DevOps Openhack Proctor](https://github.com/Azure-Samples/openhack-devops-proctor) Github repository.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FTsuyoshiUshio%2Fopenhack-devops-team.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FTsuyoshiUshio%2Fopenhack-devops-team?ref=badge_large)
